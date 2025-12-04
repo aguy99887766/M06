@@ -1,0 +1,130 @@
+OUTPUT #1
+--------------------------------
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 3
+Enter player's name: Test
+Enter player's ID: 1234
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 4
+Enter player's name: Test@2
+Enter player's ID: 1234
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 5
+Enter player's name: Test345
+Enter player's ID: 2345
+Name: Test
+ID: 1234
+ ROLE: Running Back
+Energy: 100
+(0, 0)
+Name: Test@2
+ID: 1234
+ ROLE: Defensive Lineman
+Energy: 100
+(0, 0)
+Name: Test345
+ID: 2345
+ ROLE: Linebacker
+Energy: 100
+(0, 0)
+------------------------
+OUTPUT #2
+------------------------
+
+
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 8
+Enter player's name: Test
+Enter player's ID: 1234
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 9
+
+List of Players on the Team:
+Name: Test
+ID: 1234
+Description: Name: Test
+ID: 1234
+ ROLE: Punter
+Energy: 100
+(0, 0)
+Test punts the ball!
+I have expanded energy
+Energy: 99
+------------------------
+
+Menu:
+1. Add Quarterback
+2. Add Wide Receiver
+3. Add Running Back
+4. Add Defensive Lineman
+5. Add Linebacker
+6. Add Defensive Back
+7. Add Kicker
+8. Add Punter
+9. Show all players
+10. Exit
+Choose an option: 10
+Exiting program.
+Name: Test
+ID: 1234
+ ROLE: Punter
+Energy: 99
+(0, 0)
+
+
+--------------------------------
